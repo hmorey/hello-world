@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+Hello,
+I am Hailey and I really miss California burritos. 
